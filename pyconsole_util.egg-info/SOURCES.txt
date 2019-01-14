@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+pyconsole_util/__init__.py
+pyconsole_util/util.py
+pyconsole_util.egg-info/PKG-INFO
+pyconsole_util.egg-info/SOURCES.txt
+pyconsole_util.egg-info/dependency_links.txt
+pyconsole_util.egg-info/top_level.txt
