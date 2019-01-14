@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="pyconsole-util",
-    version="1.0.0",
+    version="1.0.1",
 
     author="Gatlen Culp",
     author_email="gatlenculp@gmail.com",
